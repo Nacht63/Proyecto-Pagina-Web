@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Mundos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://wallpapers-clan.com/wp-content/uploads/2023/10/minecraft-grass-tree-desktop-wallpaper-preview.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+        }
+        header {
+            background-color: rgba(0, 0, 0, 0.999);
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            border-bottom: 6px solid #33ff00ae;
+        }
+            
+            .header-img {
+            position: absolute; 
+            top: 20px; 
+            left: 20px; 
+            width: 180px; 
+            height: auto; 
+    
+            
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        main {
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.947);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(198, 240, 109, 0.3);
+            margin: 20px auto;
+            max-width: 800px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+            color: #0079fa;
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+       
+        section p {
+            color: #000000;
+            font-size: 16px;
+            line-height: 1.5;
+
+           
+
+        }
+
+       
+        footer {
+            background-color: rgba(255, 255, 255, 0.7);
+            color: #fff;
+            padding: 0px ;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            margin-left: -340.5px;
+        }
+        footer p {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+   
+
+
+   
+    <header>
+
+        <h1>LOS MUNDOS DE MINECRAFT</h1>
+        <div>
+            <img src="https://ottonielcoo.wordpress.com/wp-content/uploads/2018/11/umg-logo.jpg" alt="Imagen" class="header-img">
+        </div>
+        
+        <nav>
+            <ul>
+                <li><a href="#overworld">Overworld</a></li>
+                <li><a href="#nether">Nether</a></li>
+                <li><a href="#end">End</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+        <section id="overworld">
+    <h2>Overworld</h2>
+    <style>
+
+.section-img{
+        position: relative; 
+        top:  20px; 
+        right: 3px; 
+        width: 800px; 
+        height: auto; 
+        padding-bottom: 35px;
+
+
+        }
+    </style>
+
+
+    <p>El Overworld en Minecraft es el mundo principal y principal en el que juegas. Es el lugar donde apareces cuando comienzas u nuevo juego y donde pasa la mayor parte de tu tiempo explorando, construyendo y luchando contra enemigos.</p>
+    <p>El Overworld es un mundo vasto y diverso, compuesto por una variedad de biomas, como bosques, desiertos, oceanos, llanuras y montañas. </p>
+    <img src="https://i.pinimg.com/originals/06/2d/f8/062df8bf61385aacca086bc4ac3fe395.jpg" alt="imagen" class="section-img">
+
+    <p> En Minecraft, el overworld está lleno de una amplia variedad de recursos que los jugadores pueden recolectar y utilizar para construir, crear y sobrevivir. Algunos de los recursos más importantes y comunes que se encuentran en el overworld incluyen:</p>
+    <p> Madera: Uno de los recursos más básicos y fundamentales en Minecraft. Se puede obtener de árboles cortándolos con herramientas adecuadas, y se utiliza para fabricar una variedad de objetos, incluyendo herramientas, armas, bloques de construcción y más.</p>
+    <img src="https://www.minecrafteo.com/wp-content/uploads/2020/09/i-like-wood-1-16.jpg" alt="Imagen" class="section-img">
+
+    <p> Piedra y minerales: La piedra es abundante en la mayoría de las áreas del overworld y se puede utilizar para fabricar herramientas y construir estructuras. Además, hay varios minerales que se encuentran bajo tierra, como el carbón, el hierro, el oro, el diamante, el lapislázuli, el redstone, entre otros. Cada mineral tiene sus propias características y usos específicos.</p>
+    <img src="https://i.pinimg.com/originals/e3/67/9c/e3679cf81afbbedd9b6e778a4d70faca.jpg" alt="imagen" class="section-img"
+
+    <p> Alimentos: Los alimentos son esenciales para mantener la salud y la energía del jugador. En el overworld, se pueden encontrar una variedad de fuentes de alimentos, como animales como vacas, cerdos, pollos, ovejas, así como cultivos como trigo, zanahorias, patatas, remolachas y frutas.</p>x
+    <img src="https://i.pinimg.com/originals/27/4d/46/274d468a365038175ba5d043081cfe86.jpg" alt="imagen" class="section-img">
+
+    <p> Agua: El agua es un recurso fundamental en Minecraft. Se puede encontrar en forma de cuerpos de agua naturales como océanos, ríos, lagos y lagunas, y se utiliza para diversas actividades, como irrigar cultivos, navegar en botes, pescar y extinguir incendios.</p>
+    <img src="https://i.pinimg.com/originals/01/85/5c/01855cafe98479ab017c1a1ed05f91c9.jpg" alt="Imagen" class="section-img">
+
+    <p> Biomas y biodiversidad: El overworld está lleno de diferentes biomas, cada uno con sus propias características y recursos únicos. Por ejemplo, los biomas de bosque tienen árboles y animales específicos, mientras que los biomas de desierto pueden contener cactus y otros recursos específicos.</p>
+    <img src="https://i.pinimg.com/originals/0e/bb/09/0ebb095586c2758788e860739de1c841.jpg" alt="imagen" class="section-img">
+
+    <p> Estructuras generadas naturalmente: Además de los recursos básicos, el overworld también contiene diversas estructuras generadas naturalmente, como cuevas, cañones, aldeas, templos y fortalezas. Estas estructuras pueden contener tesoros, recursos valiosos o desafíos para los jugadores.</p>
+    <img src="https://i.pinimg.com/originals/9a/6a/46/9a6a46638c10b90591ddf3375eff2684.jpg  " alt="imagen" class="section-img">
+
+ <p> Estos son solo algunos ejemplos de los muchos recursos que se pueden encontrar en el overworld de Minecraft. La exploración y la recolección de estos recursos son aspectos fundamentales de la jugabilidad del juego.</p>
+
+ <section id="nether">
+    <h2>Nether</h2>
+    <img src=https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/06/minecraft-nether-fortress.jpg alt="imagen" class="section-img">
+    <p>El nether o Inframundo es una dimensión peligrosa que contiene fuego, lava, vegetación basada en hongos, muchas criaturas hostiles y estructuras exclusivas.</p>
+    <p>Para acceder al Nether, el jugador debe construir un portal del Nether en la dimensiónPara crear el portal, el jugador primero debe construir un marco de obsidiana rectangular, que varía en tamaño desde un mínimo de 4×5 hasta un máximo de 23×23. Una vez que se construye el marco, se puede activar colocando fuego dentro del marco, usando un mechero, carga ígnea, dispensadores o cualquier material que sea capaz de encender el fuego
+. </p>
+    <img src="https://www.digminecraft.com/getting_started/images/how_to_make_nether_portal3.png" alt="imagen" class="section-img">
+    <p> El Nether presenta un terreno único similar a una cueva sin cielo. La lava y el fuego son peligros comunes en todas partes del Nether. Las áreas alejadas del jugador están envueltas en niebla. A diferencia de la Superficie, la forma del terreno en el Nether es independiente de la distribución del bioma; en cambio, el bioma altera el material de la superficie y agrega características del terreno al terreno de netherrack</p>
+    <p>Algunos</p>
+    <p> Sus tipos de bioma son: <p>
+    <p> Desiertos del Nether:Inicialmente el único bioma en la dimensión antes de la Nether Update, los desiertos del Nether es el bioma más común en el Nether. La superficie está compuesta por netherrack descubierta, exponiendo más vetas que cualquier otro bioma. Los piglins zombificados dominan este bioma y se pueden encontrar en hordas de hasta 4.</p>
+    <img src="https://th.bing.com/th/id/R.fea0f12aeb17d1570c66fbb75b1dab9e?rik=0%2f8eXzG9t4zqkw&pid=ImgRaw&r=0" alt="imagen" class="section-img">
+    <p> Valle de almas: Este bioma desértico es peligroso, no solo por las enormes cavernas y la oscuridad que pueden permitir que aparezcan muchos ghasts y esqueletos, sino también por los depósitos de arena de almas que ralentizan al jugador. Las botas encantadas con Velocidad del alma permiten al jugador evitar el efecto ralentizador de la arena del alma. El fuego de almas de color azulado es común aquí y es más peligroso que el fuego normal.
+Debido a la gran cantidad de fósiles aquí, el valle almas podría haber sido alguna vez un paraíso habitable lleno de enormes criaturas pasadas. Se desconoce por qué se extinguieron, pero lo más probable es que una sequía (lo que explica por qué el bioma está seco) o una erupción volcánica de los deltas de basalto fueron los culpables. La única vegetación que sobrevive hoy son las raíces carmesí y los champiñones, mientras que las únicas criaturas que quedan son esqueletos, ghasts y endermans, así como lavagantes que se generan sobre el océano de lava
+.</p>
+    <img src="https://th.bing.com/th/id/R.e9df716123510165a3fd7ca4dfe23982?rik=eBlKJPoxcVj0lg&pid=ImgRaw&r=0 " alt="imagen" class="section-img">
+ <p> Bosque carmesí: El bioma lleva el nombre de su color rojo y está cubierto por las copas de hongos enormes parecidos a árboles. Unas bestias, parecidas al cerdo llamadas hoglins caminan por el terreno de necelio, mientras que las tribus de piglins los cazan para alimentarse. Esto lo convierte en uno de los únicos biomas que tiene un ecosistema. Si bien no es tan numeroso como en el bioma de Desiertos del Nether, el piglin zombificado ocasional también deambula, y si está cerca de los piglins normales, los ahuyentará. 
+También es uno de los biomas más habitables del Nether, debido a que los hoglins son una fuente de alimento en la dimensión y, a pesar de ser una criatura hostil, se puede criar, lo que lo hace perfecto para las granjas de la dimensión.<p>
+<img src="https://th.bing.com/th/id/OIP.DX32LxeEZncRCKmq9NuJTQHaEK?rs=1&pid=ImgDetMain" alt="imagen" class="section-img">
+    
+</section>
+
+
+ <section id="end">
+    <h2>End</h2>
+ <p>El portal del End es una estructura generada automaticamente que se utiliza para viajar al End. Solo se puede encontrar en la sala del portal de una fortaleza.</p>
+<img src="https://minecraft.wiki/images/thumb/Active_End_Portal.png/800px-Active_End_Portal.png?8d564" alt="imagen" class="section-img"
+
+<p>¿Cómo localizar el End?: Para encontrar el Portal del End necesitas contar con Ojos de Ender que se obyienen a partir de otros objetos. Tienes que conseguir Perlas de Ender y Polvo de Blaze para combinarlos y asi obtener dichos ojos, Las Primeras se obtienen eliminado Endermans, la segunda se consiguen eliminando a los Blaze en el Nether (tendrás que entrar en este mundo y localizar las fortalezas donde se encuentran los Blaze).</p>
+<img src="https://cdn.alfabetajuega.com/alfabetajuega/2020/06/alfabetajuega-guia-minecraft-enderdragon-02-08062020.jpg" alt="imagen" class="section-img"
+
+ <p> ¿Cómo activar el portal del End?:  Una vez dentro de la Fortaleza, tardarás poco en dar con el Portal. Lo identificaras porque es un marco colocado en el suelo, con un spawn de mobs cerca de él en medio de una escalera. Además, en su interior del marco hay un foso con lava, Lo que tienes que hacer es colocar un ojo de ender en cada uno de los bloques del Portal del End, Necesitas colocar 12 y al instante se activará y podras entrar en él. </p>
+<img src="https://i.blogs.es/94394c/portal-ender-minecraft/450_1000.webp" alt="imagen" class="section-img"
+
+
+</section>
+
+ <section id="comparacion">
+    <h2>comparacion entre mundos</h2>
+
+    <p>En Minecraft, existen tres dimensiones principales que componen el mundo del juego. Aquí la comparacion;
+    Diferencias:
+    Overworld (Superficie):
+    Es el mundo principal en el que comienzas tu aventura.
+    Se genera automáticamente cuando creas un nuevo mundo.
+    Contiene biomas, como bosques, desiertos, montañas, océanos y más.
+    Puedes encontrar aldeas, cuevas, minas abandonadas y estructuras generadas automáticamente.
+    La mayoría de las criaturas, como los zombies, los esqueletos y los animales, aparecen aquí.
+    Es el lugar donde construyes, exploras y recolectas recursos. </p>
+    <p>
+    Es un mundo subterráneo lleno de lava, roca y estructuras infernales.
+    Para acceder al Nether, debes construir un portal con obsidiana y encenderlo con fuego.
+    Aquí encontrarás criaturas hostiles como los piglins, ghasts y blaze.
+    Puedes obtener recursos únicos, como cuarzo del Nether y polvo de blaze.
+    El Nether es peligroso debido a su terreno hostil y criaturas agresivas. </p>
+    <p>End:
+    Es el mundo final al que puedes acceder a través de un portal del End.
+    El End está compuesto principalmente por una isla flotante con un enorme dragón llamado Ender Dragon.
+    El objetivo principal en el End es derrotar al Ender Dragon.
+    Puedes encontrar estructuras como los End Cities, que contienen tesoros y elíxires de purificación.
+    El End es un lugar misterioso y desafiante. </p>
+    
+    <p>Similitudes:
+   Bloques y Materiales:
+    En todos los mundos, los bloques y materiales básicos son los mismos. Puedes encontrar piedra, madera, tierra, arena, minerales y otros recursos en todas las dimensiones.
+    Algunos bloques, como la obsidiana, son específicos de ciertas dimensiones, pero en general, los materiales básicos son consistentes. </p>
+   <p>Portales:
+    Cada dimensión tiene su propio portal único para acceder a ella.
+    El Nether se accede mediante un portal de obsidiana encendido con fuego.
+    El End se alcanza a través de un portal del End ubicado en una fortaleza. </p>
+  <p>Criaturas:
+    Aunque las criaturas específicas varían, algunas aparecen en más de una dimensión.
+    Por ejemplo, los zombies y los esqueletos se encuentran tanto en el Overworld como en el Nether.
+    Sin embargo, hay criaturas exclusivas de cada dimensión, como los endermen en el End y los ghasts en el Nether. </p>
+   <p>Exploración y Aventura:
+    En todas las dimensiones, puedes explorar, buscar tesoros y enfrentarte a desafíos.
+    Cada mundo tiene sus propias estructuras generadas automáticamente, como aldeas en el Overworld, fortalezas en el Nether y End Cities en el End. </p>
+    <P>Recursos Específicos:
+    Cada dimensión ofrece recursos únicos.
+    El Nether proporciona cuarzo del Nether, polvo de blaze y otros materiales relacionados con el fuego.
+    El End tiene elíxires de purificación y bloques de piedra del End. </P>
+    
+    <P>En resumen, el Overworld es donde comienzas y construyes, el Nether es peligroso y lleno de recursos valiosos, y el End es el lugar final de la aventura con el Ender Dragon
+    Y aunque las dimensiones de Minecraft son diferentes, comparten elementos básicos como bloques, portales y la posibilidad de explorar y aventurarse. </p>
+
+<section id- galeria>
+    <h2>Galeria de Fondos</h2>
+
+    <img src="https://64.media.tumblr.com/ed7f16a58c76ac9f379968201fada26f/66bba489d9d4b0b7-a4/s1280x1920/f066ee1ed6f350170f38de52c7d1c0aa0a2153ca.gifv" alt="imagen" class="section-img"
+    <p> </p>
+    <img src="https://64.media.tumblr.com/02bca9a153dc141e20151c1636e65d1c/tumblr_ptiusk3yJ31y7ei2ho5_540.gifv" alt="imagen" class="section-img"
+<p></p>
+<img src="https://64.media.tumblr.com/15de0eb0c8aa8ed5644f605e0d459dfa/4867a2aa2bd22489-37/s400x600/c79d1c72da595f9e0d19681f7ae7871b8597ef80.gifv" alt="imagen" class="section-img"
+<p></p>
+<img src="https://64.media.tumblr.com/8c8b6be00a94419712dbd81a4b9cd722/6807e063352ebe1d-a2/s540x810/fb1b192aed4be8d7be54d125f308d432e903c4d1.gifv" alt="imagen" class="section-img"
+<p></p>
+<img src="https://i.pinimg.com/originals/1b/86/94/1b86945a90bc0a72942d3c1b4d86827c.gif" alt="imagen" class="section-img"
+<p></p>
+
+</section>
+
+
+
+
+        <footer>
+            <p>INGENIERIA EN SISTEMAS, UNIVERSIDAD MARIANO GALVEZ DE GUATEMALA, VILLA NUEVA</p>
+        </footer>
+    </body>
+    </html>
